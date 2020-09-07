@@ -10,4 +10,4 @@ math: false
 toc: false
 ---
 
-This should auto deploy
+This should auto deploy if I built correctly
