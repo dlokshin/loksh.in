@@ -14,6 +14,7 @@ phases:
       - tar -xzf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
       - mv hugo /usr/bin/hugo
       - cd - 
+      - pwd
       - rm -rf /tmp/*
   build:
     commands:
