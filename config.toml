@@ -49,8 +49,8 @@ paginate = 6
   name = "Communism"
   url = "/articles/"
 [[menu.header]]
-  name = "Test 2"
-  url = "/next2"
+  name = "bitcoin"
+  url = "/bitcoin"
 [[menu.footer]]
     name = "RSS"
     url = "/index.xml"
