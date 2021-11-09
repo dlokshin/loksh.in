@@ -1,6 +1,6 @@
 ---
 title: "Writing Under Duress"
-date: 2021-11-01T20:36:46-08:00
+date: 2021-10-25T20:36:46-08:00
 draft: false
 ---
 

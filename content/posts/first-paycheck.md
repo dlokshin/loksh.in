@@ -1,6 +1,6 @@
 ---
 title: "First Paycheck"
-date: 2021-10-06T20:58:14-07:00
+date: 2021-10-18T20:58:14-07:00
 draft: false
 ---
 
