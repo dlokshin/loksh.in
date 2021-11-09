@@ -15,9 +15,9 @@ paginate = 6
   # Default to true
   enableFootnotes = true
 
-  siteName = "Hugo Tania is Amazing"
-  siteDesc = "Hugo is Absurdly Fast!"
-  author = "Hugo Tania"
+  siteName = "Loksh.in"
+  siteDesc = "My families stories on living under communism"
+  author = "David Lokshin"
 
   # Limit how many categories filter show above search input.
   # Default to 5
@@ -48,12 +48,6 @@ paginate = 6
 [[menu.header]]
   name = "Communism"
   url = "/articles/"
-[[menu.header]]
-  name = "bitcoin"
-  url = "/bitcoin"
-[[menu.footer]]
-    name = "RSS"
-    url = "/index.xml"
 
 [markup]
 [markup.highlight]
