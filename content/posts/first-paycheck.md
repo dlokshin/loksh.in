@@ -1,7 +1,7 @@
 ---
 title: "First Paycheck"
-date: 2021-11-06T20:58:14-07:00
-draft: true
+date: 2021-10-06T20:58:14-07:00
+draft: false
 ---
 
 My dad's first job in America was selling candy at a movie theater. Very proud,
