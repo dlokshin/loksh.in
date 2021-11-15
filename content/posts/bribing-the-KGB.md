@@ -1,6 +1,6 @@
 ---
 title: "Bribing the KGB"
-date: 2021-11-15T20:57:10-07:00
+date: 2021-11-15T02:57:10-07:00
 draft: false
 ---
 
@@ -13,7 +13,7 @@ longer open, so what now?
 There were a number of ideas and schemes, but the one that ended up working ways
 that my grandmother bribed a KGB agent who was in charge of green lighting
 applications for immigration. My grandmother had everyone in the family leave
-the house, went to the communal telephone, and dialed the American Embassy, "I
+their communal apartment, went to the telephone, and dialed the American Embassy, "I
 have information I need to share with your government," she said, and hung up.
 She had the family leave the apartment so that in the case she was tortured in
 a gulag, she could say with a clean conscience that the plan was her own, and
