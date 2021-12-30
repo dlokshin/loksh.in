@@ -2,7 +2,7 @@ baseurl = "https://loksh.in"
 languageCode = "en-us"
 title = "David Lokshin"
 theme = "hugo-tania"
-paginate = 6
+paginate = 40 
 
 [params]
   # Emoji will show before the blog title on site navbar.
