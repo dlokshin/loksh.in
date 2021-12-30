@@ -12,7 +12,11 @@ was, of course, referencing putting in the effor to escape communism.
 Another friend's father steps towards them and gives a counter example. "Tell
 me how to get out of this situation," he said. "You're in a german camp, and
 the officer tells all the men to take off their pants. Everyone with a
-circumcision gets a bullet to the head. How do you get out of that situation?"
+circumcision gets a bullet to the head."
 
 It was a story from his childhood in the Ukraine. He survived because his
 parents had been too poor to pay for a circumcision.
+
+My parents always laugh when Americans revel in how hard life must have been
+for them under communism because of how much more difficult their parents'
+life was.
