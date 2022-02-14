@@ -7,7 +7,7 @@ draft: false
 The week that my parents were set to leave the USSR for America, their families
 threw a massive party. My father's best friend, Misha, said to him, "You're
 proof that if you put in enough effort, you can get out of any situation." He
-was, of course, referencing putting in the effor to escape communism.
+was, of course, referencing putting in the effort to escape communism.
 
 Another friend's father steps towards them and gives a counter example. "Tell
 me how to get out of this situation," he said. "You're in a german camp, and
