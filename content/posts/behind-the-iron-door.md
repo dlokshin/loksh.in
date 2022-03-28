@@ -22,4 +22,4 @@ Every time we went, we had no idea if it would be the last time, and we would al
 
 A few weeks after we left the Soviet Union forever we received a a coded letter from our friends informing us about the arrest of our "хмырь." That iron door had closed just behind us.
 
-You can also read [this story from my dad's perspective][(https://www.loksh.in/posts/bribing-the-kgb/)]
+You can also read [this story from my dad's perspective](https://www.loksh.in/posts/bribing-the-kgb/)
