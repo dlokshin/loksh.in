@@ -6,7 +6,7 @@ draft: false
 
 This story is from my Uncle Boris:
 
-When my family entered into a "pay to play" bribing scheme to leave the USSR through with the help of a KGB agent, we had to drive to the other side of Leningrad to meet a mysterious man, our handler.  By that time we had a car, a Fiat 124 Russian knockoff, called "жигули."  I was the only person in my family to know how to drive.  My mom and I went to those "meetings " at night, so no other members of the family would be "compromised."
+When my family entered into a "pay to play" bribing scheme to leave the USSR through the help of a KGB agent, we had to drive to the other side of Leningrad to meet a mysterious man, our handler.  By that time we had a car, a Fiat 124 Russian knockoff, called "жигули."  I was the only person in my family to know how to drive.  My mom and I went to those "meetings " at night, so no other members of the family would be "compromised."
 
 We drove in the dark to a tall apartment building, climbed several flights of stairs, and came to a large still door of an apartment that was the actual home of our "handler."  We rang the doorbell.  Several locks began to open and the door slowly and to revealed a medium built, middle aged man with a small beard. He didn't look particularly scary. Behind him two small dogs of unknown bread came running toward us. They were the first French Bulldogs I had ever seen.
 
