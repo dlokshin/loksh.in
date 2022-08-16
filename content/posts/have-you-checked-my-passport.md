@@ -1,6 +1,6 @@
 ---
 title: "Have You Checked My Passport"
-date: 2021-11-06T21:07:56-07:00
+date: 2022-07-16T21:07:56-07:00
 draft: false
 ---
 When my dad graduated college, he looked for a job in engineering in any
