@@ -5,14 +5,14 @@ draft: false
 ---
 
 While in the Soviet Union, my parents were constantly fed stories about what
-life was like in the evil, capitalist, and imperial west. A big focus was
+life was like in the evil, capitalist, and imperial West. A big focus was
 crime: everyone had a gun, murders were a regular occurrence, there was rampant
 crime, and so on.
 
 When my parents arrived in Phoenix, they walked into their first apartment and
-saw, for the first time, a sliding, glass door which opened to a small balcony.
-"What is this?" my dad asked their sponsor. "It's a glass door?" came the reply.
-At this point my parents were on to the trend that most Soviet stories were
+saw, for the first time, a sliding glass door which opened to a small balcony.
+"What is this?" my dad asked their sponsor. "It's a glass door," came the reply.
+At this point, my parents were on to the trend that most Soviet stories were
 outright lies and decided that if Americans were using huge sheets of fragile
 glass in place of solid wood or metal doors, there must be no crime at all!
 

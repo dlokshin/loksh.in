@@ -4,8 +4,8 @@ date: 2021-11-08T20:58:08-07:00
 draft: false
 ---
 
-My parent's first stop in America was Phoenix Arizona. They were
-sponsored by the local jewish community. Upon arrival, my parents were given a
+My parents' first stop in America was Phoenix, Arizona. They were
+sponsored by the local Jewish community. Upon arrival, my parents were given a
 gift basket with food, diapers, and other items to help make their transition
 to a new country easier.
 
